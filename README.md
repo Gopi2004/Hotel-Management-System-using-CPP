@@ -1,2 +1,3 @@
 # Hotel-Management-System-using-CPP
+This project is designed for client side in order to manage their tasks more efficiently and effectively provide services for their customers..
 Hotel Management System provides  number of choices, like reserving a room, reviewing customer information, changing or removing any client, and seeing all rooms that have been assigned.Some of the key features in this mini project is; it has a functionality likeManage Rooms Check-In,Get available rooms,Search customer,Check-out room,Get guest summary report etc...
