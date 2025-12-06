@@ -10,6 +10,7 @@ changing or removing any client, and seeing all rooms that have been assigned.
 //Declared Namespaces
 using namespace std;  
 //Customer Class
+//gopichand
 class Customer  
 {  
 //Variable declaration
